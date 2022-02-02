@@ -79,10 +79,10 @@ Practicing Pandas for Data Analysis
 * In Which Year The Highest Number of Courses Were Posted?
 * Display Category-Wise Count of Posted Subjects (Year Wise)
 
-#### 7- Streamlit App for Generic Dataset
+#### 8- Streamlit App for Generic Dataset
 * Not deployed yet on any cloud.
 
-#### 8- [Youtube Channels](https://www.kaggle.com/rahuldogra/top5000youtubechannels)
+#### 9- [Youtube Channels](https://www.kaggle.com/rahuldogra/top5000youtubechannels)
 * Data Cleaning Rank Column
 * Data Cleaning Video Uploads & Subscribers
 * Data Cleaning Grade Column
@@ -94,7 +94,7 @@ Practicing Pandas for Data Analysis
 * Which Grade Has The Highest Number of Subscribers? 
 * Which Grade Has The Highest Video Views? 
 
-#### 9- [IMDB Movie](https://www.kaggle.com/PromptCloudHQ/imdb-data)
+#### 10- [IMDB Movie](https://www.kaggle.com/PromptCloudHQ/imdb-data)
 * Display Title of The Movie Having Runtime Greater Than or equal to 180 Minutes
 * In Which Year There Was The Highest Average Voting?
 * In Which Year There Was The Highest Average Revenue?
@@ -111,7 +111,7 @@ Practicing Pandas for Data Analysis
 * Find Unique Values From Genre 
 * How Many Films of Each Genre Were Made?
 
-#### 10- [Forest Fires in Brazil](https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil)
+#### 11- [Forest Fires in Brazil](https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil)
 * Rename Month Names To English
 * Total Number of Fires Registered
 * In Which Month Maximum Number of Forest Fires Were Reported?
@@ -124,7 +124,7 @@ Practicing Pandas for Data Analysis
 * Find Average Number of Fires Were Reported From Highest to Lowest (State-Wise)
 * To Find The State Names Where Fires Were Reported In 'dec' Month
 
-#### 11- [Heart Disease Analysis](https://www.kaggle.com/johnsmith88/heart-disease-dataset)
+#### 12- [Heart Disease Analysis](https://www.kaggle.com/johnsmith88/heart-disease-dataset)
 * How Many People Have Heart Disease, And How Many Don't Have Heart Disease In This Dataset?
 * Find Count of  Male & Female in this Dataset
 * Find Gender Distribution According to The Target Variable
